@@ -1,0 +1,256 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #0B91C8;
+	}
+
+#robotMaster{
+	text-align: center;
+	position: relative;
+	top: 150px;
+
+}
+
+.colorBoxes{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.colorBox{
+	width: 200px;
+	height: 300px;
+	background-color: grey;
+	margin: 0px auto;
+	margin: 30px;
+	margin-top: 200px;
+}
+
+.images{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+#metalMan{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	position: relative;
+	left: 0px;
+}
+
+#metalMan:hover{
+	opacity: .75;
+	cursor: pointer;
+	-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;
+}
+
+#Metalman{
+	text-align: center;
+	position: relative;
+	top: -600px;
+
+}
+
+#airMan{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	position: relative;
+	left: 10px;
+}
+
+#airMan:hover{
+	opacity: .75;
+	cursor: pointer;
+	-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;
+}
+
+#Airman{
+	text-align: center;
+	position: relative;
+	top: -600px;
+
+}
+
+#bubbleMan{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	position: relative;
+	left: 20px;
+}
+
+#bubbleMan:hover{
+	opacity: .75;
+	cursor: pointer;
+	-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;
+}
+
+#Bubbleman{
+	text-align: center;
+	position: relative;
+	top: -600px;
+
+}
+
+#crashMan{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	position: relative;
+	left: 30px;
+}
+
+#crashMan:hover{
+	opacity: .75;
+	cursor: pointer;
+	-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;
+}
+
+#Crashman{
+	text-align: center;
+	position: relative;
+	top: -600px;
+
+}
+
+#flashMan{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	position: relative;
+	left: 40px;
+}
+
+#flashMan:hover{
+	opacity: .75;
+	cursor: pointer;
+	-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;
+}
+
+#Flashman{
+	text-align: center;
+	position: relative;
+	top: -600px;
+
+}
+
+#heatMan{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	position: relative;
+	left: 50px;
+}
+
+#heatMan:hover{
+	opacity: .75;
+	cursor: pointer;
+	-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;
+}
+
+#Heatman{
+	text-align: center;
+	position: relative;
+	top: -600px;
+
+}
+
+#quickMan{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	position: relative;
+	left: 60px;
+}
+
+#quickMan:hover{
+	opacity: .75;
+	cursor: pointer;
+	-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;
+}
+
+#Quickman{
+	text-align: center;
+	position: relative;
+	top: -600px;
+
+}
+
+#woodMan{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	position: relative;
+	left: 70px;
+}
+
+#woodMan:hover{
+	opacity: .75;
+	cursor: pointer;
+	-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;
+}
+
+#Woodman{
+	text-align: center;
+	position: relative;
+	top: -600px;
+
+}
+/*@media screen and (max-width: 955px){
+	.row{
+		display: block;
+		margin: 10px;
+	}
+
+	.col4{
+		height: 350px;
+	}
+
+}*/
+
+
+
+
+/*-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;*/
+
